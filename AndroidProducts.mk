@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_falcon.mk
+    $(LOCAL_DIR)/du_falcon.mk
