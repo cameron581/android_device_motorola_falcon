@@ -35,7 +35,7 @@ TARGET_LIBINIT_DEFINES_FILE := device/motorola/falcon/init/init_falcon.c
 
 # Custom relese tools for unified devices
 TARGET_RELEASETOOLS_EXTENSIONS := device/motorola/falcon
-
+SKIP_SET_METADATA := true
 #bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(LOCAL_PATH)/bluetooth
 
